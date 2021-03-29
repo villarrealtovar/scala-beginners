@@ -65,7 +65,7 @@ object Generics extends App {
   val cage = new Cage(new Dog)
 
   class Car
-  val newCage = new Cage(new Car)
+  // val newCage = new Cage(new Car)
 
 
   // lower bounded types
