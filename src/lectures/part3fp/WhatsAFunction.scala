@@ -34,7 +34,7 @@ object WhatsAFunction extends App {
     Exercises
 
     1. a function which takes 2 string and concatenates them
-    2. transform the MyPredicate and MyTransformer into function types (min 12.00)
+    2. transform the MyPredicate and MyTransformer into function types
     3. define a function which takes an int and returns another function
        which takes an int and return an int
        - what's the type of this function
